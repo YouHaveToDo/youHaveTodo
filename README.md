@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jong Chan Jung</h1>
-<h3 align="center">I want to be dev able to make money</h3>
+<h3 align="center">I want to be dev able to make value</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
