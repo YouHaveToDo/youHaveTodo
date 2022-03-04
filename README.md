@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jong Chan Jung</h1>
 <h3 align="center">I want to be dev able to make value</h3>
 
-- 🌱 I’m currently learning **Node.JS, TypeScript**
+- 🌱 I’m currently learning **VUE.JS**
 
 - 📝 I regularly write articles on [https://dev-kobe.tistory.com/](https://dev-kobe.tistory.com/)
 
