@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VUE.JS**
 
-- 📝 I regularly write articles on [https://dev-kobe.tistory.com/](https://dev-kobe.tistory.com/)
+<!--    - 📝 I regularly write articles on [https://dev-kobe.tistory.com/](https://dev-kobe.tistory.com/) -->
 
 - 📫 How to reach me **zmfpdkwl2@gmail.com**
 
